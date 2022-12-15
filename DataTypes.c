@@ -1,3 +1,4 @@
+//print value of different data types
 #include <stdio.h>
 
 int main()
